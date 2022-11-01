@@ -20,4 +20,4 @@ The following image shows what the completed exercise should display.
 ## Link to application
 
 Link for completed Random password challenge.
-![]()
+![](https://abranr84.github.io/wk-3-challenge-rando-pass/)
